@@ -28,7 +28,7 @@ describe("Zoom Webhook meeting.update", function(){
          "event_ts": Date.now(),
          "payload":
           { "account_id": "qso9BrrZRPC2_KdVHJTGMg",
-            "operator": "viral@xyz.io",
+            "operator": "John@xyz.io",
             "operator_id": "KdYKjnimT4KPd8FFgQt9FQ",
             "scope": "all",
             "object": { "id": 94_446_976_353, "topic": "New Meeting Topic", "password": "228899"},

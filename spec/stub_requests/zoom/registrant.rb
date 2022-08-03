@@ -42,7 +42,7 @@ module StubRequests
         {
           registrant_id: "jxTLlRDETPONRujxqhC9nA",
           id: 94_446_976_353,
-          topic: "Viral Sonawala (Dev)",
+          topic: "Jon Deo (Dev)",
           start_time: "2021-08-04T18:30:00Z",
           join_url: "https://zoom.us/w/93685056731?tk=EUTDLxWVgOZvZsSZf8mWPdGjcHxZTW1MtgaxB_Uffsw.DQIAAAAV0BCEvRZqeFRMbFJERVRQT05SdWp4cWhDOW5BAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
         }
